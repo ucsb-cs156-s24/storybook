@@ -4,3 +4,4 @@ This repo exists so that we can serve the file `/storybook/mockServiceWorker.js`
 
 That enables the storybooks embedded in the projects in this repo to work properly with msw.
 
+Be sure to enable github pages on the main branch.
